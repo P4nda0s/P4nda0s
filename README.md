@@ -16,12 +16,13 @@
 
 ## 👋 About Me
 
-I am an M.S. student in **Cyberspace Security at Sichuan University** and a member of the CTF teams @SycloverTeam and @Nu1LCTF.
+🎓 I am an M.S. student in **Cyberspace Security at Sichuan University** and a member of the CTF teams **@Nu1LCTF** and **@SycloverTeam**.
 
-My research focuses on the intersection of **reverse engineering, binary analysis, software security, and AI × Security**. I am particularly interested in **agentic reverse engineering, AI-assisted binary understanding, type recovery, program deobfuscation, and software protection**.
+🤖 My work focuses on applying AI to **reverse engineering and binary program analysis**, including agentic program understanding, deobfuscation, software protection, and the development of security agents and evaluation benchmarks such as **Agent Cyber Bench**.
 
-I am open to collaborations and currently seeking **Ph.D.** and **research-oriented career** opportunities in **AI for Security**, agentic reverse engineering, binary analysis, program analysis, and software security. Please feel free to reach out if you are working on related topics.
+✍️ Beyond research and open source, I create technical courses and educational content on reverse engineering, binary security, and mobile security.
 
+🔍 I am currently open to **research collaborations, Ph.D. opportunities, and research-oriented roles** in **AI for Security, AI Safety, and binary-related cybersecurity**.
 
 
 ## 🔬 Publications
