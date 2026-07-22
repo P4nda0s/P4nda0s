@@ -14,12 +14,10 @@
   公众号 / Blog: <strong>二进制磨剑</strong>
 </p>
 
-```text
-researcher@binary-lab:~$ ./whoami
 
 Reverse engineer and AI-for-security researcher building tools,
 agents, and research systems for understanding and securing binaries.
-```
+
 
 ## 👋 About Me
 
