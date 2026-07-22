@@ -21,17 +21,17 @@ agents, and research systems for understanding and securing binaries.
 
 ## 👋 About Me
 
-I am an M.S. student in **Cyberspace Security at Sichuan University**.
+I am an M.S. student in **Cyberspace Security at Sichuan University** and a member of the CTF teams @SycloverTeam and @Nu1LCTF.
 
 My research focuses on the intersection of **reverse engineering, binary analysis, software security, and AI × Security**. I am particularly interested in **agentic reverse engineering, AI-assisted binary understanding, type recovery, program deobfuscation, and software protection**.
 
-I am open to collaborations on **AI-driven security tools, reverse-engineering agents, and binary-analysis research systems**.
+I am open to collaborations on **AI-driven security tools, reverse-engineering agents, benchmarks, and binary-analysis research systems**.
 
 ## 🔬 Publications
 
-* **RecStruct: Recovering Nested Struct Types from Stripped Binaries via Stack-Driven Unification**
+* (USENIX Security 2026) **RecStruct: Recovering Nested Struct Types from Stripped Binaries via Stack-Driven Unification**
   **Yuxin Chen**, Zhiyang Fang, Shiyi Wu, Yixin Xu, Yuhang Wang, Xiaokang Yin, and Junfeng Wang
-  *USENIX Security 2026*
+  
   [Paper](https://www.usenix.org/conference/usenixsecurity26/presentation/chen-yuxin) · [Code & Artifacts](https://doi.org/10.5281/zenodo.20560521)
 
 * **BPM: Anti-symbolic Execution Code Obfuscation with Bit-Permutation MBA**
@@ -66,34 +66,18 @@ I am open to collaborations on **AI-driven security tools, reverse-engineering a
 * **Chengdu University of Information Technology (CUIT)**
   B.S. in Cyber Security, 2020–2024
 
-## 🏆 Selected Honors & Competitions
+## 🏆 Honors & Competitions
 
 * **XCTF Final 2023** — Champion
 * **DataCon 2024**
 * **ByteAI 2024** — 5th Place
 
-## ✍️ Writing & Teaching
+## ✍️ Books
 
 Contributed to selected chapters of:
 
 * 《加密与解密》
 * 《从 0 到 1 ctfer》
-
-<details>
-<summary><strong>Public Online Courses</strong></summary>
-
-<br>
-
-* 《Unicorn 高级逆向与反混淆》
-* 《IDA 特训营》
-* 《IDA 9.0 逆向入门》
-* 《Android 内核逆向攻防》
-* 《混淆与反混淆实战》
-* 《七天 Frida 从小白到大师计划》
-* 《进阶逆向工程实战》
-* 《App 流量安全与协议逆向工程》
-
-</details>
 
 ---
 
