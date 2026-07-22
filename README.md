@@ -25,7 +25,9 @@ I am an M.S. student in **Cyberspace Security at Sichuan University** and a memb
 
 My research focuses on the intersection of **reverse engineering, binary analysis, software security, and AI × Security**. I am particularly interested in **agentic reverse engineering, AI-assisted binary understanding, type recovery, program deobfuscation, and software protection**.
 
-I am open to collaborations on **AI-driven security tools, reverse-engineering agents, benchmarks, and binary-analysis research systems**.
+I am open to collaborations and currently seeking **Ph.D.** and **research-oriented career** opportunities in **AI for Security**, agentic reverse engineering, binary analysis, program analysis, and software security. Please feel free to reach out if you are working on related topics.
+
+
 
 ## 🔬 Publications
 
@@ -34,9 +36,8 @@ I am open to collaborations on **AI-driven security tools, reverse-engineering a
   
   [Paper](https://www.usenix.org/conference/usenixsecurity26/presentation/chen-yuxin) · [Code & Artifacts](https://doi.org/10.5281/zenodo.20560521)
 
-* **BPM: Anti-symbolic Execution Code Obfuscation with Bit-Permutation MBA**
+* (Preprint, 2026) **BPM: Anti-symbolic Execution Code Obfuscation with Bit-Permutation MBA**
   Di Wu, Jiaxuan Geng, Zhiyang Fang, **Yuxin Chen**, and Junfeng Wang
-  *Preprint, 2026*
   [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6945195) · [DOI](https://doi.org/10.2139/ssrn.6945195)
 
 ## 🛠️ Open Source
