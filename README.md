@@ -14,11 +14,6 @@
   公众号 / Blog: <strong>二进制磨剑</strong>
 </p>
 
-
-Reverse engineer and AI-for-security researcher building tools,
-agents, and research systems for understanding and securing binaries.
-
-
 ## 👋 About Me
 
 I am an M.S. student in **Cyberspace Security at Sichuan University** and a member of the CTF teams @SycloverTeam and @Nu1LCTF.
