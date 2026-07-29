@@ -51,7 +51,7 @@
 ## 🧭 Background
 
 ### Experience
-
+* **Minimax** — Intern, July 2026
 * **ByteDance · Lark** — Intern, Jun 2026
 * **BoundaryX** — Intern, Remote, 2020–2023
 
